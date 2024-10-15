@@ -48,3 +48,6 @@ This project involves analyzing FIFA World Cup data to identify the top tourname
 1. Open the provided Excel file.
 2. Use the slicers to filter by year and explore the data interactively.
 3. Review the various charts to identify trends in goals scored, attendance, and iconic fixtures across different World Cups.
+
+## Dashboard
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/e3768a3e07fe1bd1ed06b6523c14b706d60582d9/Adidas%20Sales%20Analysis/Adidas%20Sales%20Dashboard.png)
