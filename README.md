@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamanagementblog.com%2F3-phases-of-data-analysis%2F&psig=AOvVaw3GcU9J5ZlhDKJgzyMkarIV&ust=1729111803612000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDJ_smhkYkDFQAAAAAdAAAAABAE
+![3-phases-of-data-analysis-b](https://github.com/user-attachments/assets/19098bd6-a157-4c5c-9ff0-e48269e82cb6)
