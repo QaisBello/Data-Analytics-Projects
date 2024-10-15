@@ -50,4 +50,4 @@ This project involves analyzing FIFA World Cup data to identify the top tourname
 3. Review the various charts to identify trends in goals scored, attendance, and iconic fixtures across different World Cups.
 
 ## Dashboard
-![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/e3768a3e07fe1bd1ed06b6523c14b706d60582d9/Adidas%20Sales%20Analysis/Adidas%20Sales%20Dashboard.png)
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/86f7c5f9ce2cfd48bf434db57d3b201ce93cf407/World%20Cup%20Analysis/World%20Cup%20DashBoard.PNG)
