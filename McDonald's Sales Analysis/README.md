@@ -52,4 +52,4 @@ Would you like further analysis or a deeper dive into any specific section of th
 
 
 ### Dashboard
-![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/d9a23e564b4007160ba26d835e8eb36ab32ca754/McDonald%E2%80%99s%20Sales%20Analysis/McDonald%E2%80%99s_Sales_Dashboard.png)
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/15f05e4d90a0254b35b4d354ae79b97faec82571/McDonald's%20Sales%20Analysis/McDonald%E2%80%99s_Sales_Dashboard.png)
