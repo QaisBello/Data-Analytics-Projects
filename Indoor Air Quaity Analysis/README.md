@@ -24,6 +24,7 @@ This project focuses on measuring indoor air quality (IAQ) parameters and their 
 ### 1. **CO2 Levels**:
    - In the **Engineering Lecture Theatre (ELT)**, CO2 concentrations frequently exceeded the ASHRAE guideline of 1000 ppm, with a peak of **3019 ppm** during peak occupancy. The average CO2 level was **1490.78 ppm**, indicating inadequate ventilation.
    - **Café 2001** and the **Glass House** had lower CO2 levels, consistently below the ASHRAE threshold, showing that their ventilation systems were more effective.
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/86f7c5f9ce2cfd48bf434db57d3b201ce93cf407/World%20Cup%20Analysis/World%20Cup%20DashBoard.PNG)
 
 ### 2. **PM2.5 Levels**:
    - The WHO guideline of **15 µg/m³** for PM2.5 was frequently exceeded across all locations. During peak occupancy, the highest PM2.5 level recorded was **82 µg/m³** in Café 2001.
