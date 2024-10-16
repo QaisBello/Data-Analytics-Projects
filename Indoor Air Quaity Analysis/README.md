@@ -1,4 +1,4 @@
-# Continuous Measurement of Air Quality Parameters with Implications on Occupant Wellbeing
+# Measurement of Air Quality Parameters with Implications on Occupant Wellbeing At Selected Halls In The University Of Lagos
 
 ## Overview
 This project focuses on measuring indoor air quality (IAQ) parameters and their potential impact on occupant well-being in university lecture halls. The study examines key IAQ parameters such as particulate matter (PM2.5, PM10), carbon dioxide (CO2), temperature, and humidity. The goal is to assess the IAQ levels and provide recommendations to improve the air quality for healthier indoor environments.
