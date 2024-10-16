@@ -33,7 +33,7 @@ This project focuses on measuring indoor air quality (IAQ) parameters and their 
 
 ### 3. **PM10 Levels**:
    - The WHO guideline of **45 µg/m³** for PM10 was consistently exceeded, with the **Glass House** peaking at **159.3 µg/m³**. This indicates particulate matter levels were often unsafe, especially during high-occupancy events.
-![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/c3b20a9f96cfc673e8718fd7c7e9ca3c8da49c1b/Indoor%20Air%20Quaity%20Analysis/Plots/Indoor%20CO2%20levels%20%20Day%201%20to%20Day%205%20across%20the%20three%20locations.%20.png)
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/c8f6024ad9dbd1358fafc06eb48dd460f5634ae4/Indoor%20Air%20Quaity%20Analysis/Plots/Indoor%20PM10%20levels%20Day%201%20to%20Day%205%20across%20the%20three%20locations.%20.png)
 
 ## Conclusion & Recommendations
 - The results demonstrate that IAQ in high-occupancy educational spaces like the **ELT**, **Café 2001**, and **Glass House** is below recommended standards, particularly concerning CO2 and particulate matter.
