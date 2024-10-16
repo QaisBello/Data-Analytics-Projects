@@ -29,7 +29,7 @@ This project focuses on measuring indoor air quality (IAQ) parameters and their 
 ### 2. **PM2.5 Levels**:
    - The WHO guideline of **15 µg/m³** for PM2.5 was frequently exceeded across all locations. During peak occupancy, the highest PM2.5 level recorded was **82 µg/m³** in Café 2001.
    - The **ELT** also experienced high PM2.5 levels, with an average of **39.25 µg/m³**, indicating poor filtration and ventilation systems.
-![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/c3b20a9f96cfc673e8718fd7c7e9ca3c8da49c1b/Indoor%20Air%20Quaity%20Analysis/Plots/Indoor%20CO2%20levels%20%20Day%201%20to%20Day%205%20across%20the%20three%20locations.%20.png)
+![Image alt text](https://github.com/QaisBello/Data-Analytics-Projects/blob/b91aa250a82551e2a68dfb0fcb4a847b51bd3ede/Indoor%20Air%20Quaity%20Analysis/Plots/Indoor%20PM2.5%20levels%20Day%201%20to%20Day%205%20across%20the%20three%20locations.%20.png)
 
 ### 3. **PM10 Levels**:
    - The WHO guideline of **45 µg/m³** for PM10 was consistently exceeded, with the **Glass House** peaking at **159.3 µg/m³**. This indicates particulate matter levels were often unsafe, especially during high-occupancy events.
